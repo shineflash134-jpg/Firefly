@@ -7,10 +7,10 @@ const SITE_LANG = "zh_CN";
 
 export const siteConfig: SiteConfig = {
 	// 站点标题
-	title: "flash",
+	title: "flash's blog",
 
 	// 站点副标题
-	subtitle: "flash blog",
+	subtitle: "怒吼",
 
 	// 站点 URL
 	site_url: "https://flashblog134.ccwu.cc",
