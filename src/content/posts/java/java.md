@@ -1,10 +1,10 @@
 ---
-title: 我的第一篇文章
+title: Java
 published: 2025-01-01
-description: 这是文章的简短描述
+description: 
 image: ./cover.jpg
-tags: [前端, 开发]
-category: 前端开发
+tags: [Java, 开发]
+category: Java
 draft: false
 ---
 
