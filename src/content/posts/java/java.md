@@ -1,7 +1,7 @@
 ---
 title: Java
 published: 2025-01-01
-description: 
+description: 添砖java
 image: ./cover.jpg
 tags: [Java, 开发]
 category: Java
