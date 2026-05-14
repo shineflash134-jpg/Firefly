@@ -5,7 +5,7 @@ compatibility_date = "2026-05-14"
 directory = "./dist"
 
 [build]
-command = "npm run build"
+command = "pnpm build"
 
 [vars]
 NODE_VERSION = "22"
