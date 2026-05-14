@@ -8,7 +8,7 @@ category: 工具
 draft: false
 ---
 
-maven是由阿帕奇软件基金会开源的一个 **自动化构建项目**，
+maven是由阿帕奇软件基金会开源的一个 **自动化构建项目**。
 
 <img src="https://freeflowers134.ccwu.cc/file/AgACAgUAAyEGAATtG69eAAOLafqvV1XeNkXRjzTiL8mW37HmcfoAAuEQaxu8VdBXr1fAib68lH0BAAMCAAN4AAM7BA.png" style="zoom:50%;" />
 
