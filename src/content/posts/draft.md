@@ -20,3 +20,6 @@ tags: [Markdown, 博客, 演示]
 category: 示例
 draft: false
 ---
+git add .
+git commit -m "更新草稿"
+git push    
