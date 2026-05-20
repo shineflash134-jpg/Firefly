@@ -11,11 +11,9 @@ draft: false
 
 # Google Pay
 
-<iframe width="100%" height="468"
-  src="https://www.youtube.com/CkRikmJxowI"
-  title="YouTube video player"
-  frameborder="0" allowfullscreen>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/CkRikmJxowI?si=-r6z4qPEaiNnakYn" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen>
 </iframe>
+
 <br><br>
 
 Visa、Mastercard这些全球最通用的信用卡
