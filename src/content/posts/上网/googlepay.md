@@ -43,12 +43,14 @@ GooglePlay的地区每年只能够更换一次
 <img src="https://freeflowers134.ccwu.cc/file/AgACAgUAAyEGAATtG69eAAIBfmoNitfG9o9iFd8kAghuF6UugxIQAAJ2EGsbwwhxVI7TAAF2KQKVdwEAAwIAA3kAAzsE.png" style="zoom:50%;" />
 
 
+<img src="https://shineflash134imgbedd.ccwu.cc/file/1784712782712_image.png" alt="image.png" width=70% />
 
 需要更换，要点击 “**国家地区版本**”
 
 这里可以看到谷歌的国家地区，它主要的差别是 **它的 服务主体和使用的法律不同**
 
 <img src="https://freeflowers134.ccwu.cc/file/AgACAgUAAyEGAATtG69eAAIBgGoNi0XQ_II5nHTBYmBjPbtJjyWXAAJ3EGsbwwhxVE3JP36jxEI5AQADAgADeQADOwQ.png" style="zoom:50%;" />
+
 
 
 修改GooglePlay的地区 ，点击**付款和订阅**，
